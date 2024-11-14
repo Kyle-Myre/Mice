@@ -1,0 +1,5 @@
+services:
+  ngnix:
+    image: nginx
+    ports:
+      - "5050:80"
