@@ -17,8 +17,8 @@ Clone the repository:
 
 ```bash
 Copy code
-git clone https://github.com/yourusername/mice-project.git
-cd mice-project
+git clone https://github.com/Kyle-Myre/Mice.git
+cd Mice
 ```
 
 ### Install dependencies
