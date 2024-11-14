@@ -24,7 +24,6 @@ cd Mice
 ### Install dependencies
 
 ```bash
-Copy code
 npm install
 ```
 
